@@ -1,0 +1,13 @@
+{
+  "name": "talnt",
+  "version": "1.0.0",
+  "description": "TALNT - La plataforma donde el fútbol amateur y formativo encuentra oportunidades",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'No build process - open index.html directly'",
+    "build": "echo 'No build process - static HTML project'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
