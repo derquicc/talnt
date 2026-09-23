@@ -1,0 +1,13 @@
+{
+  "name": "talnt",
+  "version": "1.0.0",
+  "description": "TALNT conecta talento y oportunidades en el fútbol amateur y formativo.",
+  "private": true,
+  "scripts": {
+    "lint": "echo \"No linting configured for static HTML\"",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
