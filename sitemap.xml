@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.talnt.es/</loc></url>
+  <url><loc>https://www.talnt.es/jugadores/</loc></url>
+  <url><loc>https://www.talnt.es/clubes-academias/</loc></url>
+  <url><loc>https://www.talnt.es/scouting-futbol/</loc></url>
+  <url><loc>https://www.talnt.es/profesionales-futbol/</loc></url>
+  <url><loc>https://www.talnt.es/guias/perfil-futbolista/</loc></url>
+  <url><loc>https://www.talnt.es/guias/scouting-futbol-amateur/</loc></url>
   <url><loc>https://www.talnt.es/diario/</loc></url>
   <url><loc>https://www.talnt.es/diario/talnt-es-ya-tiene-web/</loc></url>
   <url><loc>https://www.talnt.es/diario/profesionales-del-futbol-en-talnt/</loc></url>
